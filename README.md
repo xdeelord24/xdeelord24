@@ -40,7 +40,7 @@
   
 - 💬 Ask me about **about Web Development Stuffs**
   
-- 📫 How to reach me centmarde.campado@gmail.com
+- 📫 How to reach me jgmolinawork@gmail.com
 
 <br>
 
