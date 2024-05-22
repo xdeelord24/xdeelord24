@@ -55,6 +55,3 @@
 </p>
 
 <br>
-
-
-![Bottom_down](https://github.com/xdeelord24/xdeelord24/assets/159101935/aecdf82d-fe75-4add-9b17-9e0d5961fd8c)
