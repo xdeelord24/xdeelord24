@@ -32,11 +32,11 @@
 
 - 😄 Pronouns: **He/His**
   
-- 🌱 I’m currently working on **Laravel Remote Method Invocation Project**
+- 🌱 I’m currently working on **Online Licensing Regulatory System**
   
 - 🏆 I'm Interested in making the world better by **PRs**
   
-- 👨‍🎓 Studying **Information Technology**
+- 👨‍🎓 Studied **Masters in Information Technology**
   
 - 💬 Ask me about **about Web Development Stuffs**
   
