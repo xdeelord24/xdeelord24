@@ -1,5 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
-
+# 👋 Hi there, I'm Jundee
 > *"Creativity is a must, but the way to solve new problems is ❤️"*
 
 <div align="center">
