@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Jundee
+
 > *"Creativity is a must, but the way to solve new problems is ❤️"*
 
 <div align="center">
@@ -11,12 +12,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=xdeelord24&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdeelord24&layout=compact&bg_color=00000000&hide_border=true" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=xdeelord24&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdeelord24&layout=compact&bg_color=00000000&hide_border=true" />
+</p>
 
 <div align="center">
   
@@ -29,7 +28,17 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,c,java,html,css,javascript,vite,mysql,jquery,postgres,php,laravel,nuxt,npm,yarn,vuejs,postman,react,ps,xd,ai,pr,ae,stackoverflow,git,vscode,python,linux,windows,flutter,wordpress,github,arduino,autocad,blender,discord&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,c,java,html,css,javascript,vite,mysql,jquery,postgres,php,laravel,nuxt,npm,yarn,vuejs,postman,react,ps,xd,ai,pr,ae,stackoverflow,git,vscode,python,linux,windows,flutter,wordpress,github,arduino,autocad,blender,discord,tensorflow,pytorch,jupyter,pandas,numpy,opencv&perline=9" alt="Tech Stack" />
+</div>
+
+### 🤖 AI & Machine Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter" alt="AI & ML Stack" />
+  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 </div>
 
 ---
@@ -42,7 +51,7 @@
 - 🌱 **Currently working on:** Online Licensing Regulatory System
 - 🏆 **Interested in:** Making the world better through Pull Requests
 - 👨‍🎓 **Education:** Masters in Information Technology
-- 💬 **Ask me about:** Web Development, Full-Stack Development, and Tech Stacks
+- 💬 **Ask me about:** Web Development, Full-Stack Development, AI/ML, LLMs, and Tech Stacks
 - 📫 **Reach me at:** [jgmolinawork@gmail.com](mailto:jgmolinawork@gmail.com)
 - ⚡ **Fun fact:** I love solving complex problems and contributing to open-source projects
 
@@ -70,7 +79,7 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xdeelord24)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgmolinawork@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jundee-mark-gerona-molina-293b83260/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
   
 </div>
